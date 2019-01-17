@@ -13,8 +13,8 @@ In this project, you will create a user directory that matches the mockup provid
 Your project should...
 
 - Use at least 3 different components, including at least 1 stateless, functional component and 1 stateful, class component.
-- Allow users to navigate through all the user information from the array in `data.js` using the `< Previous` and `Next >` buttons.
-- Have special handling for those buttons for the first and last users in the array to avoid errors.
+- Allow users to navigate through all the user information from the array in `data.js` using the `< Previous` and `Next >` buttons. Include special handling for those buttons for the first and last users in the array to avoid errors.
+- Display where in the array the current user is located (ex. 1/25)
 - Match the layout and styling of the mockup as closely as possible.
 
 \*Note: The `Edit`, `Delete` and `New` buttons are not required to get credit for this project. They are part of the Black Diamond if you finish the requirements early.
