@@ -1,0 +1,13 @@
+.nav-bar {
+    width: 100vw;
+    height: 10vh;
+    background-color: rgb(45,155,213);
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+}
+.nav-bar > h1 {
+    font-size: 50px;
+    font-weight: bolder;
+    margin-left: 5vw;
+}

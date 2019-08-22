@@ -1,0 +1,17 @@
+.card-container {
+    width: 60vw;
+    height: 70vh;
+    background: white;
+    font-size: 40px;
+    font-weight: bolder;
+}
+.ordered-list {
+    list-style-type: decimal;
+    margin-left: 10vw;
+}
+
+.previous-button, .next-button {
+    color: white;
+    cursor: pointer;
+    font-size: 50px;
+}
